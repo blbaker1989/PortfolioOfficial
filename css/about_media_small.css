@@ -16,13 +16,13 @@
   }
   /* skills */
   .about-me__skills__flex {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    height: 1240px;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    height: 1200px;
   }
   .about-me__skills__item {
     min-width: 240px;
-    max-width: 260px;
+    max-width: 250px;
   }
   .about-me__skills__btn {
     margin-top: 0.5em;
