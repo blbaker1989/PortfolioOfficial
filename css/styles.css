@@ -500,7 +500,7 @@ a {
 }
 .portfolio__item__thumbnail {
   width: 100%;
-  height: auto;
+  height: 100%;
   border-bottom: 1px solid #cfd2e2;
   -webkit-transform: translateY(0%);
           transform: translateY(0%);
